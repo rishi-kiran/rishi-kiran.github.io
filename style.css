@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color: #4949ca;
+}
+
+h2{
+  color: #4949ca;
+  border-bottom: 1px solid;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: red;
+}
+
+body{
+  background-color: aliceblue;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#info{
+  line-height: 1.5em;
+}
